@@ -1,0 +1,5 @@
+﻿  Deep-Learning.cpp
+C:\Users\Utilisateur\source\repos\Deep-Learning\Deep-Learning\Deep-Learning.cpp(25,29): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Utilisateur\source\repos\Deep-Learning\Deep-Learning\Deep-Learning.cpp(75,20): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Utilisateur\source\repos\Deep-Learning\Deep-Learning\Deep-Learning.cpp(87,20): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  Deep-Learning.vcxproj -> C:\Users\Utilisateur\source\repos\Deep-Learning\x64\Debug\Deep-Learning.exe
